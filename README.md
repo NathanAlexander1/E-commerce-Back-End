@@ -25,6 +25,10 @@
 
   ## Screencastify:
   https://app.castify.com/view/0a75f524-4a0a-46d3-b05e-df21585e9c7f
+
+  ## GitHub:
+  https://github.com/NathanAlexander1/E-commerce-Back-End
+
   ## Questions:
   See my GitHub at https://github.com/NathanAlexander1.
   To reach me at my personal email, please follow this link: [here](mailto:nika827@msn.com).
